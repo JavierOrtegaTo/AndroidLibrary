@@ -48,6 +48,7 @@ dependencies {
     implementation "androidx.compose.material:material:$compose_version"
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation 'androidx.test.ext:junit-ktx:1.2.1'
+    implementation 'androidx.fragment:fragment-ktx:1.8.1'
 }
 
 afterEvaluate {
