@@ -25,3 +25,15 @@ Iimage-preview/src/main/java/com/plcoding/image_preview/MyModalFragment.kt,6\d\
 Limage-preview/src/main/java/com/plcoding/image_preview/ModalDesdeLibreria.kt,3\c\3ca427b9ff5ed83d5cb3be0b6eb15b4a0f88ba16
 v
 Fimage-preview/src/main/java/com/plcoding/image_preview/ImagePreview.kt,d\b\db8172dafe065d6cb63e419ff1336273c9abf036
+w
+G.idea/sonarlint/issuestore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3,9\a\9aed88f31eac276604c6355c1adcc0bce1f80fd6
+w
+G.idea/sonarlint/issuestore/3/f/3f384c5ac91d01ea9ab11981ab87f1d958f63284,d\7\d72f4c71cd63b158bb8caaeff7202a42423797d3
+w
+G.idea/sonarlint/issuestore/3/c/3ca427b9ff5ed83d5cb3be0b6eb15b4a0f88ba16,2\a\2a931a74213ddd881c88c3725fbec708acac26b2
+Å
+Q.idea/sonarlint/securityhotspotstore/3/c/3ca427b9ff5ed83d5cb3be0b6eb15b4a0f88ba16,a\8\a8b3ebd60ae1995727529e34bdffc17a1019f443
+Å
+Q.idea/sonarlint/securityhotspotstore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3,1\0\1017d171139053a6ceaff055b7159ba14e80dc44
+Å
+Q.idea/sonarlint/securityhotspotstore/3/f/3f384c5ac91d01ea9ab11981ab87f1d958f63284,d\4\d4eaed33ab76db67c660d519515021e51ab4cfe2
