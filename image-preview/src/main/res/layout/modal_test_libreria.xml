@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_bg_without_padding_radius_20"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="10dp"
+        android:fontFamily="@font/rawsonpro_bold"
+        android:text="Titulo de prueba"
+        android:textColor="@color/X1"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/rawsonpro_medium"
+        android:lineSpacingExtra="5dp"
+        android:text="Esta es una descripcion que viene desde la libreria. hola ahora solo estoy rellenando ya que me sirve para probar. "
+        android:textColor="@color/black_text"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnContinue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Holanda"
+        android:background="@drawable/shape_radio_24_esquinas_0076a9_selector"
+        android:fontFamily="@font/rawsonpro_medium"
+        android:textAllCaps="false"
+        android:textColor="@color/blanco"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/shape_radio_24_esquinas_borde_0076a9"
+        android:fontFamily="@font/rawsonpro_medium"
+        android:text="Jaja si funcionó"
+        android:textAllCaps="false"
+        android:textColor="@color/black_text"
+        android:textSize="18sp" />
+
+</LinearLayout>
