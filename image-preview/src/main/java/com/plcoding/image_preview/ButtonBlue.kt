@@ -23,6 +23,7 @@ class ButtonBlue @JvmOverloads constructor(
             Toast.makeText(context, "wenas gente", Toast.LENGTH_SHORT).show()
         }
     }
+
     override fun setEnabled(enabled: Boolean) {
         btn.isEnabled = enabled
     }
