@@ -23,7 +23,5 @@ y
 Iimage-preview/src/main/java/com/plcoding/image_preview/MyModalFragment.kt,6\d\6d486fc4df9c3065a038e9d9d296e9930b918510
 |
 Limage-preview/src/main/java/com/plcoding/image_preview/ModalDesdeLibreria.kt,3\c\3ca427b9ff5ed83d5cb3be0b6eb15b4a0f88ba16
-m
-=app/src/main/java/com/plcoding/androidlibrary/MainActivity.kt,6\9\69f053bf03ef8adbe2736b257e55c25eea2a437e
-F
-app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+v
+Fimage-preview/src/main/java/com/plcoding/image_preview/ImagePreview.kt,d\b\db8172dafe065d6cb63e419ff1336273c9abf036
