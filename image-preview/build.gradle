@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    compileSdk 34
+    compileSdk 31
 
     defaultConfig {
         minSdk 21
-        targetSdk 34
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -31,9 +31,6 @@ android {
         jvmTarget = '1.8'
         useIR = true
     }
-    composeOptions {
-        kotlinCompilerExtensionVersion '1.4.3'
-    }
     buildFeatures {
         compose true
     }
@@ -48,7 +45,6 @@ dependencies {
     implementation "androidx.compose.material:material:$compose_version"
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation 'androidx.test.ext:junit-ktx:1.2.1'
-    implementation 'androidx.fragment:fragment-ktx:1.8.1'
 }
 
 afterEvaluate {
