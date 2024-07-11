@@ -4,15 +4,16 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.Button
-import android.widget.LinearLayout
+import android.widget.ImageButton
 import android.widget.Toast
+import androidx.constraintlayout.widget.ConstraintLayout
 
 class ButtonBlue @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
     defStyle: Int = 0,
     defStyleRes: Int = 0,
-) : LinearLayout(context, attrs, defStyle, defStyleRes){
+) : ConstraintLayout(context, attrs, defStyle, defStyleRes){
 
     init {
         LayoutInflater.from(context).inflate(R.layout.component_button_blue, this, true)
